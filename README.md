@@ -1,4 +1,4 @@
-#NDK Sensor
+# NDK Sensor
 This is an example of reading Android sensor data via native c++ API, and a simple implementation from JNI.
 
 ## Pre-requisites
